@@ -421,3 +421,14 @@ td,
 th {
   padding: 0;
 }
+
+/* adding border-box to everything */
+html {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
