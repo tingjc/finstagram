@@ -29,7 +29,11 @@ GEM
     pry (0.14.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
+<<<<<<< HEAD
     puma (6.0.0)
+=======
+    puma (5.6.5)
+>>>>>>> 29d6d4a02b820c451160c02b54a94307ed0745a8
       nio4r (~> 2.0)
     rack (2.2.4)
     rack-protection (3.0.2)
@@ -53,7 +57,11 @@ GEM
       rack (~> 2.2, >= 2.2.4)
       rack-protection (= 3.0.2)
       tilt (~> 2.0)
+<<<<<<< HEAD
     sinatra-activerecord (2.0.26)
+=======
+    sinatra-activerecord (2.0.25)
+>>>>>>> 29d6d4a02b820c451160c02b54a94307ed0745a8
       activerecord (>= 4.1)
       sinatra (>= 1.0)
     sinatra-contrib (3.0.2)
@@ -74,7 +82,11 @@ GEM
       thread_safe (~> 0.1)
 
 PLATFORMS
+<<<<<<< HEAD
   ruby
+=======
+  x86_64-linux
+>>>>>>> 29d6d4a02b820c451160c02b54a94307ed0745a8
 
 DEPENDENCIES
   activerecord (~> 4.2.0)
@@ -90,4 +102,8 @@ DEPENDENCIES
   tux
 
 BUNDLED WITH
+<<<<<<< HEAD
    1.17.2
+=======
+   2.3.23
+>>>>>>> 29d6d4a02b820c451160c02b54a94307ed0745a8
